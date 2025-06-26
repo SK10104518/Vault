@@ -168,3 +168,5 @@ File: StatisticsFragment.kt (package: com.example.vault.ui.main)
 Key Function: playSuccessSound()
 
 Trigger Location: Inside the onViewCreated method, within the authViewModel.currentUser and viewModel.categorySpending observers.
+
+https://youtu.be/YIqk_exJ0Rw
